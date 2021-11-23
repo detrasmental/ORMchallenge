@@ -38,7 +38,7 @@ After exiting the mysql prompts, run the following commands.
 2. npm start
 
 ## Demo
-![](undefined)
+https://watch.screencastify.com/v/yLYxVTZk0HEFBcJlswmK
 
 ## Contribution
 This is homework. I'm not currently accepting contributions, but feel free to contact me with any advice! Thank you.
